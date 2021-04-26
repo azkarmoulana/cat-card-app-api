@@ -19,7 +19,7 @@ An API that creates a nice cat card for you with custom text
 1. Clone the repository
 2. Navigate to the project folder
 3. Run `npm install` to install all the required dependencies
-4. Run `npm run start` to start the application
+4. Run `npm run start` to start the application (this will start the local server in port `5500`)
 
 ### API endpoints
 **Request**
