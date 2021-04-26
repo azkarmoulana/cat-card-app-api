@@ -10,7 +10,7 @@ An API that creates a nice cat card for you with custom text
 
 <p align="center">
   :warning: NOTE: <br>
-  <i></b>By the time I develop the API, <a href="https://cataas.com" target="_blank">https://cataas.com</a> service is unavailabe and I had to go for an alternative API. As alternative, <a href="https://docs.thecatapi.com/" target="_blank">https://docs.thecatapi.com/</a> API is used</b></i>
+  <i></b>By the time I develop the API, <a href="https://cataas.com" target="_blank">https://cataas.com</a> service is unavailabe and I had to go for an alternative API. As an  alternative, <a href="https://docs.thecatapi.com/" target="_blank">https://docs.thecatapi.com/</a> API is used</b></i>
 <p>
 <hr>
 <br>
