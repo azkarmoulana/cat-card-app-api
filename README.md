@@ -31,7 +31,7 @@ An API that creates a nice cat card for you with custom text
   
 **Response**
 - API returs the image file with your custom text on it
-  - response status: `200`
+  - response code: `200`
   - response headers: `{ "Content-Type": "image/png" }`
   - response body contains the image file
 
