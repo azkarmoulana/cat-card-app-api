@@ -30,7 +30,7 @@ An API that creates a nice cat card for you with custom text
   - `text2`: Your second custom text to create the cat
   
 **Response**
-- API returs the image file with your custom text on it
+- API returns the image file with your custom text on it
   - response code: `200`
   - response headers: `{ "Content-Type": "image/png" }`
   - response body contains the image file
